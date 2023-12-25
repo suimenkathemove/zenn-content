@@ -3,7 +3,7 @@ title: "SQLで木構造を扱う(閉包テーブル)"
 emoji: "🌲"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["sql", "tree"]
-published: false
+published: true
 ---
 
 ## はじめに
